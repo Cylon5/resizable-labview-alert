@@ -28,3 +28,5 @@ To make a control fill the available space, right-click on the control and choos
 
 To make the control resize fluidly while the user resizes the window, right click a splitter that borders the control's pane, then from the appropriate pane pull-right, choose Pane Sizing>Scale Objects While Resizing.
 ![Screenshot of Splitter right-click menu showing Scale Objects While Resizing](scale_resizing.png)
+
+I also recommend the free [PaneRelief Toolkit by Hope Harrison](https://www.vipm.io/package/jki_lib_panerelief/) for easier editing of splitter bars.
